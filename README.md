@@ -7,9 +7,9 @@ Gosto de ler sobre desenvolvimento de jogos 🎮 nas horas vagas. Abaixo tem uns
 
 O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em jogos com mecânicas de inversão da gravidade. O terceiro é basicamente como o jogo do dinossauro 🦖 do Chrome. Clique nas imagens para abrir os jogos.
 
-<a href="https://crissky.github.io/baby-m-flyer/?game=1" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img1.png" width="300"></a>
-<a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="300"></a>
-<a href="https://crissky.github.io/baby-m-flyer/?game=3" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img3.png" width="300"></a>
+<a href="https://crissky.github.io/baby-m-flyer/?game=1" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img1.png" width="280"></a>
+<a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="280"></a>
+<a href="https://crissky.github.io/baby-m-flyer/?game=3" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img3.png" width="280"></a>
 
 <!--
 **Crissky/Crissky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

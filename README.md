@@ -1,7 +1,7 @@
 ### Olá pessoa! 👋
 Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informação** pela **UFRPE**.
-Gosto de desenvolvimento Móvel 📱, *Back-End* 💻 e tenho um pezinho em Inteligêncial Artificial 🤖.
-Não tenho muita *skill* em Web 🌐 (HTML CSS e JS), mas estou buscando resolver isto.
+Gosto de desenvolvimento Móvel (Android nativo) 📱, *Back-End* 💻 e tenho um pezinho em Inteligêncial Artificial 🤖. Tenho mais familiaridade com as linguagens Python 🐍 e Java ☕️.
+Não tenho muita *skill* em Web 🌐 (HTML CSS e JS/PHP), mas estou buscando resolver isto.
 
 Gosto de ler sobre desenvolvimento de jogos 🎮 nas horas vagas. Abaixo tem uns *mini games* que fiz enquanto estudava JavaScript. São jogos simples com comandos que giram em torno de pressionar um botão (barra de espaço ⌨️ ou botão esquerdo do mouse 🖱). Basicamente são *endless runner* 🏃‍♂️💨 com sprites retirados de jogos da série Mario, onde cada um possui obstáculos com comportamentos prórprios e uma maneira diferente de desviar deles.
 

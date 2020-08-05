@@ -1,11 +1,12 @@
 ### Olá pessoa! 👋
-Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informação** pela **UFRPE**.
-Gosto de desenvolvimento Móvel (Android nativo) 📱, *Back-End* 💻 e tenho um pezinho em Inteligêncial Artificial 🤖. Tenho mais familiaridade com as linguagens Python 🐍 e Java ☕️.
-Não tenho muita *skill* em Web 🌐 (HTML CSS e JS/PHP), mas estou buscando resolver isto.
+
+Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informação** pela **UFRPE**. Gosto de desenvolvimento Móvel (Android nativo) 📱, *Back-End* 💻 e tenho um pezinho em Inteligêncial Artificial 🤖. Tenho mais familiaridade com as linguagens Python 🐍 e Java ☕️. Não tenho muita *skill* em Web 🌐 (HTML CSS e JS/PHP), mas estou buscando resolver isto.
 
 Gosto de ler sobre desenvolvimento de jogos 🎮 nas horas vagas. Abaixo tem uns *mini games* que fiz enquanto estudava JavaScript. São jogos simples com comandos que giram em torno de pressionar um botão (barra de espaço ⌨️ ou botão esquerdo do mouse 🖱). Basicamente são *endless runner* 🏃‍♂️💨 com sprites retirados de jogos da série Mario, onde cada um possui obstáculos com comportamentos prórprios e uma maneira diferente de desviar deles.
 
 O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em jogos com mecânicas de inversão da gravidade. O terceiro é basicamente como o jogo do dinossauro 🦖 do Chrome. Clique nas imagens para abrir os jogos.
+
+---
 
 <a href="https://crissky.github.io/baby-m-flyer/?game=1" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img1.png" width="280"></a>
 <a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="280"></a>

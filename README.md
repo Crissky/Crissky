@@ -19,8 +19,8 @@ O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em
 
 <div align="center">
   <a href="https://github.com/Crissky">
-    <img height="179em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
+    <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
   </a>
 </div>
 

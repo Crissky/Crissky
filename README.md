@@ -8,9 +8,9 @@ O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em
 
 ---
 
-<a href="https://crissky.github.io/baby-m-flyer/?game=1" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img1.png" width="280"></a>
-<a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="280"></a>
-<a href="https://crissky.github.io/baby-m-flyer/?game=3" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img3.png" width="280"></a>
+<a href="https://crissky.github.io/baby-m-flyer/?game=1" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img1.png" width="275"></a>
+<a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="275"></a>
+<a href="https://crissky.github.io/baby-m-flyer/?game=3" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img3.png" width="275"></a>
 
 ---
 
@@ -18,8 +18,8 @@ O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em
 
 <div>
   <a href="https://github.com/Crissky">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
 </div>
 
 ---

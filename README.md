@@ -12,6 +12,22 @@ O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em
 <a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="280"></a>
 <a href="https://crissky.github.io/baby-m-flyer/?game=3" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img3.png" width="280"></a>
 
+---
+
+### GitHub Stats
+
+<div>
+  <a href="https://github.com/Crissky">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
+</div>
+
+---
+
+### Commits
+  
+![Snake Commit Animation](https://github.com/Crissky/Crissky/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **Crissky/Crissky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

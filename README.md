@@ -7,27 +7,32 @@ Gosto de ler sobre desenvolvimento de jogos 🎮 nas horas vagas. Abaixo tem uns
 O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em jogos com mecânicas de inversão da gravidade. O terceiro é basicamente como o jogo do dinossauro 🦖 do Chrome. Clique nas imagens para abrir os jogos.
 
 ---
-
-<a href="https://crissky.github.io/baby-m-flyer/?game=1" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img1.png" width="275"></a>
-<a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="275"></a>
-<a href="https://crissky.github.io/baby-m-flyer/?game=3" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img3.png" width="275"></a>
+<div align="center">
+  <a href="https://crissky.github.io/baby-m-flyer/?game=1" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img1.png" width="275"></a>
+  <a href="https://crissky.github.io/baby-m-flyer/?game=2" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img2.png" width="275"></a>
+  <a href="https://crissky.github.io/baby-m-flyer/?game=3" target="_blank"><img src="https://github.com/Crissky/baby-m-flyer/blob/master/imgs/img3.png" width="275"></a>
+</div>
 
 ---
 
 ### GitHub Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/Crissky">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
+  </a>
 </div>
 
 ---
 
 ### Commits
-  
-![Snake Commit Animation](https://github.com/Crissky/Crissky/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+  <a href="https://github.com/Crissky">
+    <img src="https://github.com/Crissky/Crissky/blob/output/github-contribution-grid-snake.svg">
+  </a>
+</div >
+
 <!--
 **Crissky/Crissky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

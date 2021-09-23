@@ -31,7 +31,7 @@ O primeiro é inspirado em Flappy Bird 🦆. Já o segundo foi feito pensando em
   <a href="https://github.com/Crissky">
     <img src="https://github.com/Crissky/Crissky/blob/output/github-contribution-grid-snake.svg">
   </a>
-</div >
+</div>
 
 <!--
 **Crissky/Crissky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

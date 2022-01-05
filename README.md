@@ -1,10 +1,37 @@
-### Olá pessoa! 👋
+## Olá pessoa! 👋
 
 Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informação** pela **UFRPE**. Gosto de desenvolvimento Móvel (Android nativo) 📱, *Back-End* 💻 e tenho um pezinho em Inteligêncial Artificial 🤖 e Ciência de Dados 🎲. Tenho mais familiaridade com as linguagens Python 🐍 e Java ☕️. Não tenho muita *skill* em Web 🌐 (HTML CSS e JS/PHP), mas estou buscando resolver isto.
 
 ---
 
-### GitHub Stats
+## 💻 Tecnologias
+
+![Python](https://img.shields.io/badge/-Python-ffd43b?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![Pandas](https://img.shields.io/badge/-Pandas-160458?style=flat-square&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-1f19ad?style=flat-square&logo=numpy)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-f6f6f6?style=flat-square&logo=jupyter)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-666666?style=flat-square&logo=androidstudio)
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Crissky">
@@ -16,7 +43,7 @@ Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informa�
 
 ---
 
-### Commits
+## Commits
 <div align="center">
   <a href="https://github.com/Crissky">
     <img src="https://github.com/Crissky/Crissky/blob/output/github-contribution-grid-snake.svg">

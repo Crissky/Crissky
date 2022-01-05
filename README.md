@@ -11,7 +11,7 @@ Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informa�
     <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Crissky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crissky&layout=compact&langs_count=5&theme=midnight-purple"/>
   </a>
-</div>![1f4da](https://user-images.githubusercontent.com/22983965/148226291-93b22315-37c6-43ad-8696-c8f62815b039.png)
+</div>
 
 
 ---

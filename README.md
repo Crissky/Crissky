@@ -13,10 +13,6 @@ Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informa�
 ![Pandas](https://img.shields.io/badge/-Pandas-160458?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-1f19ad?style=flat-square&logo=numpy)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -28,6 +24,10 @@ Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informa�
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-f6f6f6?style=flat-square&logo=jupyter)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-666666?style=flat-square&logo=androidstudio)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ---
 

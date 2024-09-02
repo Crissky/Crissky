@@ -33,7 +33,7 @@ Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informa�
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Crissky">
@@ -45,7 +45,7 @@ Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informa�
 
 ---
 
-## Commits
+## 👨‍💻 Commits
 <div align="center">
   <a href="https://github.com/Crissky">
     <img src="https://github.com/Crissky/Crissky/blob/output/github-contribution-grid-snake.svg">

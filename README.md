@@ -46,12 +46,11 @@ Meu nome é **Edson Cristovam**. Eu sou estudante 📚 de **Sistemas da Informa�
 ---
 
 ## 👨‍💻 Commits
-<div align="center">
-  <a href="https://github.com/Crissky">
-    <img src="https://github.com/Crissky/Crissky/blob/output/github-contribution-grid-snake.svg">
-  </a>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Crissky/Crissky/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Crissky/Crissky/blob/output/github-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/Crissky/Crissky/blob/output/ocean.gif">
+</picture>
 ---
 
 Também gosto de ler sobre desenvolvimento de jogos 🎮 nas horas vagas. Abaixo tem uns *mini games* que fiz enquanto estudava JavaScript. São jogos simples com comandos que giram em torno de pressionar um botão (barra de espaço ⌨️ ou botão esquerdo do mouse 🖱). Basicamente são *endless runner* 🏃‍♂️💨 com sprites retirados de jogos da série Mario, onde cada um possui obstáculos com comportamentos prórprios e uma maneira diferente de desviar deles.
